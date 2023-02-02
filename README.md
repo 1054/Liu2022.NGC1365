@@ -37,5 +37,9 @@ See this: `Jupyter_Notebook/analyze_ngc1365_fix_saturated_pixels.ipynb`.
 
 Also do not forget to manually set JSON file names `json_file` and some file paths. 
 
+### Example result
 
+NGC1365 MIRI F2100W
+
+![Plot_NGC1365_MIRI_F2100W_fixsatur](https://user-images.githubusercontent.com/6521499/216351416-97b9e0c5-ff44-4a6c-a6ba-350cd07c95c7.png)
 
